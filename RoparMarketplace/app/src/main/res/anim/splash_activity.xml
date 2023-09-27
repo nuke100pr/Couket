@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <alpha android:fromAlpha="0.0"
+        android:toAlpha="1.0"
+        android:duration="1000"/>
+
+    <rotate android:pivotY="@integer/material_motion_duration_long_1"
+        android:fromDegrees="40"
+        android:duration="1000">
+
+    </rotate>
+
+    <scale android:fromXScale="0.5"
+        android:fromYScale="0.5"
+        android:toXScale="1.0"
+        android:toYScale="1.0"
+        android:duration="1000"
+        android:pivotX="70%"
+        android:pivotY="70%"/>
+
+
+</set>

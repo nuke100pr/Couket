@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090029803600",
+    "project_id": "roparmarketplace-c6085",
+    "storage_bucket": "roparmarketplace-c6085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090029803600:android:02608b37625aed34a85955",
+        "android_client_info": {
+          "package_name": "com.example.roparmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090029803600-2rfd7a14048gijps1lp0il4dsq7e5ra1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrY4HnBRVY7kAeNSk6JxG-n-7MDsm_Y60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090029803600-2rfd7a14048gijps1lp0il4dsq7e5ra1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

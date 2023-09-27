@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_loded"
+    tools:context=".tab_fragments.lunch_fragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvLunchList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <include
+        android:id="@+id/lunch_list_progress_bar"
+        layout="@layout/universal_progress_bar"
+        android:visibility="gone"
+        tools:visibility="visible"></include>
+</androidx.constraintlayout.widget.ConstraintLayout>
