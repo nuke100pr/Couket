@@ -31,15 +31,9 @@ Couket boasts a dynamic MVVM (Model-View-ViewModel) architecture:
 Join our league of code wizards and UX enchanters! Whether you wield the art of backend sorcery, the finesse of UI design, or the wisdom of database conjuring, your talents are vital to the evolution of Couket.
 
 ### 🎟️ License
-Protected under the enchanting MIT License. Seek the [LICENSE](LICENSE) grimoire for deeper insights and terms.
+Protected under the enchanting MIT License. 
 
 ---
 
-**Realm Guardians**:  
-🌟 Coupon Conjurer  
-🌟 Java Juggernaut  
-🌟 XML Enchanter  
+Made by Prakhar Maurya(Student at IIT Ropar)
 
----
-
-Embark on your coupon quest with Couket today! For inquiries or collaboration opportunities, send a scroll by carrier owl to [email@example.com](mailto:email@example.com).
